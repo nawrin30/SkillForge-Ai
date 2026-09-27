@@ -1,0 +1,10 @@
+
+.landing .brand-mark{box-shadow:0 5px 14px rgba(49,94,251,.25)}
+.item-card:hover{transform:translateY(-2px);transition:.2s}
+.item-card .meta{display:flex;gap:8px;flex-wrap:wrap;color:var(--muted);font-size:10px}
+.progress-label{display:flex;justify-content:space-between;font-size:10px;color:var(--muted);margin-bottom:5px}
+.progress-label b{color:var(--text)}
+.resource-url{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:var(--primary);font-size:11px}
+.bookmark{border:0;background:transparent;font-size:18px;color:#a5adbb}
+.bookmark.active{color:#e39a1d}
+.streak-box{display:flex;align-items:center;gap:15px}.streak-number{font-size:32px;font-weight:800}
